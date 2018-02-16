@@ -83,6 +83,22 @@
         ]
       }
     },
+            {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elizabeth Wickes",
+        "Twitter": "elliewix",
+        "Github": "elliewix",
+        "Affiliation": "University of Illinois at Urbana-Champaign"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         40.107675, 
+          -88.231523
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
